@@ -16,7 +16,7 @@ The [`2nd time trying`](initial/stillneedwork.ipynb) notebook, i have started to
 
 ---
 
-After that i decided to make this a little bit more cleaned. In The ['final notebook`](final/cancer_classification.ipynb), i was able to change the line by line cleaning of outliers,and more clean code comparing to the two
+After that i decided to make this a little bit more cleaned. In The [`final notebook`](cancer_classification.ipynb), i was able to change the line by line cleaning of outliers,and more clean code comparing to the two
 
 ---
 
