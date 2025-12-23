@@ -12,7 +12,7 @@ So when i started this Cancer prediction project,the [`initial file`](../initial
 
 Then after doing that i have decided to make this much robust like make a proper workflow of it and decided to start again.
 
-The [`2nd time trying`](..initial/stillneedwork.ipynb) notebook, i have started to include proper columntransformation,pipeline to automate the workflow of solving the null values,scaling the data,handling the imbalance using smote etc and making them to a single final pipeline.
+The [`2nd time trying`](../initial/stillneedwork.ipynb) notebook, i have started to include proper columntransformation,pipeline to automate the workflow of solving the null values,scaling the data,handling the imbalance using smote etc and making them to a single final pipeline.
 
 ---
 
